@@ -1,7 +1,7 @@
 ---
 layout: page
 title: marsqing blog at github
-tagline: Supporting tagline
+tagline: citrus reveal.js
 ---
 {% include JB/setup %}
 
